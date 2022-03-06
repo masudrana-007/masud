@@ -1,0 +1,125 @@
+.parallax{
+    background-image: url(../img/3.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  
+}
+h4{
+    text-align: center;
+    background: yellowgreen;
+    color: darkblue;
+    padding-bottom: 150px;
+    font-size: 40px;
+    margin-top: 0px;
+    padding-top: 50px;
+}
+
+.parallax2{
+    background-image: url(../img/2.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  
+}
+.masum h4{
+    text-align: center;
+    background: rgb(114, 214, 75);
+    color: rgba(13, 13, 14, 0.938);
+    padding-bottom: 150px;
+    font-size: 40px;
+    margin-top: 0px;
+    padding-top: 50px;
+}
+
+.parallax3{
+    background-image: url(../img/4.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  
+}
+.masum2 h4{
+    text-align: center;
+    background: rgb(40, 206, 228);
+    color: rgba(235, 26, 141, 0.938);
+    padding-bottom: 150px;
+    font-size: 40px;
+    margin-top: 0px;
+    padding-top: 50px;
+}
+
+.parallax4{
+    background-image: url(../img/6.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  
+}
+.masum3 h4{
+    text-align: center;
+    background: rgb(40, 206, 228);
+    color: rgba(235, 26, 141, 0.938);
+    padding-bottom: 150px;
+    font-size: 40px;
+    margin-top: 0px;
+    padding-top: 50px;
+}
+
+.parallax5{
+    background-image: url(../img/images.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  
+}
+.masum4 h4{
+    text-align: center;
+    background: rgb(40, 206, 228);
+    color: rgba(235, 26, 141, 0.938);
+    padding-bottom: 150px;
+    font-size: 40px;
+    margin-top: 0px;
+    padding-top: 50px;
+    margin-bottom: 0px;
+}
+
+.parallax6{
+    background-image: url(../img/5.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+  
+}
+
+.caption{
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-weight: 50px;
+    font-size: 40px;
+  }
+
+  
